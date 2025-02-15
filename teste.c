@@ -7,4 +7,5 @@ int main() {
     
     printf("O quadrado de %d é %d\n", num, num * num);
     return 0;
+    //ola kaua, consegues me ver?
 }
